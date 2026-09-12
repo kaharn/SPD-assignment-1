@@ -1,8 +1,3 @@
-Конечно — вот готовое **Markdown-содержимое**, которое можно просто вставить в `README.md`:
-
-````
----
-
 ## ⚙️ How to Build and Run
 
 ### Option 1: Running via Terminal / CLI
@@ -11,7 +6,7 @@ Clone the repository:
 
 ```bash
 git clone <your-repository-url>
-cd assignment1
+cd SPD-assignment-1
 ````
 
 Compile the project source files:
@@ -29,7 +24,7 @@ java -cp out com.astana.builder.Main
 ### Option 2: Running via IntelliJ IDEA
 
 1. Open **IntelliJ IDEA**.
-2. Select **File → Open...** and choose the root directory `shp-2216-assignment1-builder`.
+2. Select **File → Open...** and choose the root directory `SPD-assignment-1`.
 3. Ensure **JDK 17** is assigned under **File → Project Structure → Project SDK**.
 4. Navigate to:
 
